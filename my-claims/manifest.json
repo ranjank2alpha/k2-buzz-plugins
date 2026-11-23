@@ -1,0 +1,6 @@
+{
+  "id": "k2.my-claims",
+  "name": "My claims",
+  "apiVersion": 1,
+  "description": "Your reimbursement claims from the Ledger Accountant: what is pending, what was paid, when, and the UTR."
+}
